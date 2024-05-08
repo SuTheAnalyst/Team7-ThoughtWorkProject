@@ -1,6 +1,6 @@
 # Team7-ThoughtWorkProject
 
-Background
+** Background
 In 2018, the Mayor of London initiated a transport strategy aimed at enhancing sustainability and public health
 through increased cycling. As the City and the strategy continues to progress, there's a need to evaluate its
 effectiveness in boosting cycling activities and the associated infrastructure improvements. Thoughtworks has
@@ -17,8 +17,8 @@ The following business questions will be explored through the analysis:
 engagement?
 
 Other questions that will be considered are:
-*What are the demographics of the cyclists in London?
-*Are there any underrepresented groups that can be engaged with to try and increase the uptake of cycling
+* What are the demographics of the cyclists in London?
+* Are there any underrepresented groups that can be engaged with to try and increase the uptake of cycling
 as a mode of transport?
 
 Addressing these questions requires analysing trends in cycling data, assessing the effectiveness of existing
