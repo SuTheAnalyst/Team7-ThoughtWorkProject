@@ -9,15 +9,18 @@ The central business problem revolves around determining how successful the stra
 cycling uptake among Londoners and enhancing the cycling infrastructure. This evaluation is crucial for
 measuring current success and shaping future policy directions to further promote cycling as a key component of
 urban mobility in London.
+
 The following business questions will be explored through the analysis:
 • How can the uptake of cycling in London be increased?
 • What are the main factors that determine whether people choose to cycle?
 • What interventions and changes to the transport network have had the most impact on cycling
 engagement?
+
 Other questions that will be considered are:
 • What are the demographics of the cyclists in London?
 • Are there any underrepresented groups that can be engaged with to try and increase the uptake of cycling
 as a mode of transport?
+
 Addressing these questions requires analysing trends in cycling data, assessing the effectiveness of existing
 infrastructure, and identifying patterns in demographic engagement. Using the Mayor's Transport Strategy 2018
 as a guide, and comparing it with data from New York (NYC Open Data) and Sydney (Transport for NSW
