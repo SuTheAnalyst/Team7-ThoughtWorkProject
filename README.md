@@ -11,9 +11,9 @@ measuring current success and shaping future policy directions to further promot
 urban mobility in London.
 
 The following business questions will be explored through the analysis:
-*How can the uptake of cycling in London be increased?
-*What are the main factors that determine whether people choose to cycle?
-*What interventions and changes to the transport network have had the most impact on cycling
+* How can the uptake of cycling in London be increased?
+* What are the main factors that determine whether people choose to cycle?
+* What interventions and changes to the transport network have had the most impact on cycling
 engagement?
 
 Other questions that will be considered are:
